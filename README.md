@@ -1,3 +1,3 @@
 <samp>
-  <b>programmer</b><sup><i>monospace</i></sup>
+  <b>programmer</b><sup><i>hello</i></sup>
 </samp>
